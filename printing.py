@@ -1,0 +1,9 @@
+number=27
+print("Number",type(number))
+name="Tony"
+print("name",type(name))
+intrest=9.82
+print("intrest",type(intrest))
+employee=True
+print("employee",type(employee))
+1
